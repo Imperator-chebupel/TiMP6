@@ -1,0 +1,11 @@
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\bin\Debug\ТиМП6.exe.config
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\bin\Debug\ТиМП6.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\bin\Debug\ТиМП6.pdb
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.csproj.AssemblyReference.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.csproj.SuggestedBindingRedirects.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.Form1.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.Properties.Resources.resources
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.csproj.GenerateResource.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.csproj.CoreCompileInputs.cache
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.exe
+C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.pdb
