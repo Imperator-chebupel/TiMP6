@@ -20,8 +20,8 @@ namespace ТиМП6
             bool AM_PM = false;
             if (H_number>12)
                 AM_PM = true;
-            int Angle_H = (H_number % 12)*30;
-            int Angle_M = (M_number%60)*6;
+            int Angle_M = (M_number % 60) * 6;
+            int Angle_H = (H_number % 12) * 30; //+ (Angle_M/360);
             return NC.Change_Normal_Time(Angle_H, Angle_M, AM_PM);
         }
     }

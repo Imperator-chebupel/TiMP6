@@ -9,3 +9,14 @@ C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМ�
 C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.csproj.CoreCompileInputs.cache
 C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.exe
 C:\Users\azza1\OneDrive\Рабочий стол\Информатика\c\ТиМП6\obj\Debug\ТиМП6.pdb
+F:\ТиМП\ТиМП6\bin\Debug\ТиМП6.exe.config
+F:\ТиМП\ТиМП6\bin\Debug\ТиМП6.exe
+F:\ТиМП\ТиМП6\bin\Debug\ТиМП6.pdb
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.csproj.AssemblyReference.cache
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.csproj.SuggestedBindingRedirects.cache
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.Form1.resources
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.Properties.Resources.resources
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.csproj.GenerateResource.cache
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.csproj.CoreCompileInputs.cache
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.exe
+F:\ТиМП\ТиМП6\obj\Debug\ТиМП6.pdb

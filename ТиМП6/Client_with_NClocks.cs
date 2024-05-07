@@ -10,7 +10,7 @@ namespace ТиМП6
     {
         public string Watch_Time(Normal_Clocks Clocks, int Angle_H, int Angle_M, bool AMPM)
         {
-            return Clocks.Change_Normal_Time(Angle_H,Angle_M,AMPM);
+            return Clocks.Change_Normal_Time(Angle_H, Angle_M,AMPM);
         }
     }
 }
